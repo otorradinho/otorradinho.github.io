@@ -1,2 +1,3 @@
-# otorradinho.github.io
-Website for O Torradinho
+# website-torradinho-com
+
+Repository for otorradinho.com website
